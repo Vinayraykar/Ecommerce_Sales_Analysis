@@ -10,7 +10,7 @@ This project provides a thorough analysis and visualization of ecommerce sales d
 - `notebooks/` : Jupyter notebooks for data cleaning, analysis, and visualization.
 - `dashboard/` : Image for the ecommerce sales dashboard.
 - `reports/` : Detailed project reports in PDF formats.
-- `figures/` : Exported charts and graphics used in the report and dashboard.
+- `Images/` : Exported charts and graphics used in the report and dashboard.
 - `README.md` : This file outlining project purpose, structure, and usage.
 
 ## Features
